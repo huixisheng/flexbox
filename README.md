@@ -15,7 +15,10 @@
   - [solved-by-flexbox](#solved-by-flexbox)
   - [flex-layout-attribute](#flex-layout-attribute)
   - [flex-layout](#flex-layout)
+  - [sass-flex-mixin](#sass-flex-mixin)
+  - [flexbugs](#flexbugs)
   - [其他](#%E5%85%B6%E4%BB%96)
+  - [综合](#%E7%BB%BC%E5%90%88)
 - [更新日志](#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -81,14 +84,40 @@
 
 
 
+### [sass-flex-mixin](https://github.com/mastastealth/sass-flex-mixin) ###
+>This is a set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+
+作者: mastastealth https://github.com/mastastealth
+
+
+### [flexbugs](https://github.com/philipwalton/flexbugs) ###
+>A community-curated list of flexbox issues and cross-browser workarounds for them.
+
+作者: philipwalton https://github.com/philipwalton/
+
 ### 其他 ###
 
 - https://github.com/fclaussen/Flexbox-Framework
 - https://github.com/callmenick/Flexbox-Examples
 - https://github.com/amfe/lib-flexible
+- https://github.com/chadchristensen/flexbox
+- http://flexbox.io/
+- http://caniuse.com/flexbox
+- https://g.alicdn.com/mui/flex/3.0.8/flex.css
+- https://drafts.csswg.org/css-flexbox-1/
+- https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+
+### 综合 ###
+
+- [18个学习 flexbox 的优质资源](https://segmentfault.com/a/1190000003090028)
 
 ## 更新日志 ##
+
+**2016-11-23**
+- 添加sass-flex-mixin,flexbugs,其他相关的flex资源
+- 添加lab
 
 **2016-11-22**
 - 初始化版本

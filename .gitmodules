@@ -10,3 +10,9 @@
 [submodule "flex-layout"]
 	path = flex-layout
 	url = git@github.com:Coffcer/flex-layout.git
+[submodule "sass-flex-mixin"]
+	path = sass-flex-mixin
+	url = git@github.com:mastastealth/sass-flex-mixin.git
+[submodule "flexbugs"]
+	path = flexbugs
+	url = git@github.com:philipwalton/flexbugs.git
