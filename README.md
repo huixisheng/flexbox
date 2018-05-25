@@ -36,6 +36,24 @@
 - [我的 Flexbox 之旅](https://github.com/f2e-journey/xueqianban/issues/42)
 - [FLEXBOX FROGGY玩游戏学flex](http://flexboxfroggy.com/#zh-cn)
 - [Flexbox in CSS在 CSS 中可使用的 CSS3 Flexbox 特性](http://cssreference.parryqiu.com/flexbox/)
+- http://jonibologna.com/flexbox-cheatsheet/
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+
+## 工具  ##
+
+- http://learnlayout.com/flexbox.html
+- http://bennettfeely.com/flexplorer/
+- https://yoksel.github.io/flex-cheatsheet/#flex-basis
+- https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
+- https://chriswrightdesign.com/experiments/flexbox-adventures/
+- http://the-echoplex.net/flexyboxes/
+
+## 手册 ##
+- http://caniuse.com/flexbox
+- https://www.w3.org/TR/css-flexbox-1/
+- [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
+- https://drafts.csswg.org/css-flexbox-1/
 
 ## 资源 ##
 
@@ -44,7 +62,7 @@
 
 作者: lzxb https://github.com/lzxb/
 
-演示: http://lzxb.github.io/flex.css/
+演示: http://lzxb.github.io/flex.css/ http://lzxb.name/flex.css/
 
 
 
@@ -103,12 +121,46 @@
 - https://github.com/amfe/lib-flexible
 - https://github.com/chadchristensen/flexbox
 - http://flexbox.io/
-- http://caniuse.com/flexbox
 - https://g.alicdn.com/mui/flex/3.0.8/flex.css
-- https://drafts.csswg.org/css-flexbox-1/
-- https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://github.com/ProLoser/Flexbox.less
+- https://github.com/annebosman/FlexboxLess
+- https://gist.github.com/jayj/4012969
+- https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+- https://github.com/jonathantneal/flexibility
+- [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/)
+- [flexbox：更加优雅的Web布局](https://segmentfault.com/a/1190000002616717#articleHeader18)
+- https://www.w3ctrain.com/2015/11/12/visual-guide-to-css3-flexbox-flexbox-playground/  [图解CSS3 Flexbox属性](http://www.w3cplus.com/css3/a-visual-guide-to-css3-flexbox-properties.html)
+- [[译]深入了解 Flexbox 伸缩盒模型](https://c7sky.com/dive-into-flexbox.html#0-tsina-1-29441-397232819ff9a47a7b7e80a40613cfe1)
+- [mobile H5布局大全-rem flexbox详解](http://dj1211.com/?p=369)
 
+## lib-flexible ##
+- [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402)
+- [移动端H5页面rem缩放方案flexible.js兼容375px方案的思路](https://segmentfault.com/a/1190000005989334)
+- [流云诸葛 基于淘宝弹性布局方案lib-flexible的问题研究](https://www.cnblogs.com/lyzg/p/5117324.html)
+- [淘宝flexiblejs用rem,为什么还要缩放viewport?](https://www.zhihu.com/question/56257029)
+- [理解flexible.js所需的viewport知识](https://segmentfault.com/a/1190000004403496)
+- https://segmentfault.com/a/1190000007701921
+- [移动端采用Flexible将PX转换REM适配及开发中Retina屏1px边框的两种解决方案](https://segmentfault.com/a/1190000011492987)
+- [淘宝的flexible适配方案为什么只对iOS进行dpr判断，对于Android始终认为其dpr为1？](https://www.zhihu.com/question/38303534)
+- [使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
+- [rem 产生的小数像素问题](https://www.uis.cc/2015/12/15/Flexible-layout-of-the-mobile-terminal-REM/)
+- [如何看待手机天猫首页改用 flex 布局？与手机淘宝首页的 Rem 方案相比有何优缺点？](https://www.zhihu.com/question/29291926)
+
+## 相关问题 ##
+- [Flexbox and Textarea #85](https://github.com/philipwalton/flexbugs/issues/85)
+- [Flexbox doesn't work with buttons](https://stackoverflow.com/questions/16961192/flexbox-doesnt-work-with-buttons)
+- [Flexbox stretch textarea in column](https://stackoverflow.com/questions/31081320/flexbox-stretch-textarea-in-column)
+- [Flexbox not working on button or fieldset elements](https://stackoverflow.com/questions/35464067/flexbox-not-working-on-button-or-fieldset-elements)
+
+## submodule ##
+### 更新  ###
+
+``` shell
+# https://blog.devtang.com/2013/05/08/git-submodule-issues/
+$ git submodule foreach git submodule update
+# https://www.jianshu.com/p/9000cd49822c
+$ git submodule update --remote
+```
 
 ### 综合 ###
 
