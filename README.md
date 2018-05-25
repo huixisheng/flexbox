@@ -35,6 +35,7 @@
 - [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 - [我的 Flexbox 之旅](https://github.com/f2e-journey/xueqianban/issues/42)
 - [FLEXBOX FROGGY玩游戏学flex](http://flexboxfroggy.com/#zh-cn)
+- [Flexbox in CSS在 CSS 中可使用的 CSS3 Flexbox 特性](http://cssreference.parryqiu.com/flexbox/)
 
 ## 资源 ##
 
